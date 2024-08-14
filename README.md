@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @karamkhaira
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...web development
+- 👋 Hi, I’m @karam
+- 👀 I’m interested in ...JAVA
+- 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jeet.karam2@gmail.com
 
